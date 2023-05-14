@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 ```
-git clone https://github.com/Joroyce/AirBnB_clone.git
+git clone https://github.com/Razeetech/AirBnB_clone.git
 ```
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
@@ -168,6 +168,6 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 ## Authors
-Raji Azeez | Github (RazeezTech) | Email: ()
+Raji Azeez | Github (Razeetech) | Email: (rajiazeezsch@gmail.com)
 
 Akinlalure Daniel | Github (Denzel_007) | Email:(akinlaluredaniel@gmail.com)
